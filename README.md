@@ -44,7 +44,7 @@ A few mordern technologies that use Python -
 
 Python also has object oriented access to several different database systems, including SQLAlchemy and SQLObject.
 
-Here is a list of useful Modules, Packages, and Libraries for Python - [](https://wiki.python.org/moin/UsefulModules#Useful_Modules.2C_Packages_and_Libraries)]
+Here is a list of useful Modules, Packages, and Libraries for Python - https://wiki.python.org/moin/UsefulModules#Useful_Modules.2C_Packages_and_Libraries
 
 ## Python vs Ruby
 
@@ -137,7 +137,7 @@ Bonus - Build your own version of the source control function from the demonstra
 
 ## Additional Resources
 
--   Code Academy - Python - [](https://www.codecademy.com/courses/python-beginner)
--   Docs - [](https://docs.python.org/3/)
--   [](https://www.python.org/)
+-   Code Academy - Python https://www.codecademy.com/courses/python-beginner
+-   Docs - https://docs.python.org/3/
+-   https://www.python.org/
 -   Codewars is helpful with learning Python.
